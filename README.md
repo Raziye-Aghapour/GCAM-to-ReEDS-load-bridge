@@ -19,7 +19,7 @@ GCAM xlsx  +  EFS / ResStock / ComStock / EVI-Pro shapes
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/Raziye-Aghapour/GCAM-to-ReEDS-load-bridge.git
 cd YOUR_REPO_NAME
 
 # 2. Create the conda environment (Apple Silicon / macOS)
