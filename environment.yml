@@ -1,0 +1,12 @@
+name: gcam_reeds
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas=2.2
+  - numpy=1.26
+  - openpyxl
+  - pip
+  - pip:
+    - h5py==3.11.0
